@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">hesapMakinası3</string>
+    <array name="islemler">
+        <item>TOPLAMA</item>
+        <item>CIKARMA</item>
+        <item>CARPMA</item>
+        <item>BOLME</item>
+    </array>
+
+</resources>
